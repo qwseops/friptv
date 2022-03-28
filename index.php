@@ -32,7 +32,7 @@
         <a href="https://nicepage.com" class="u-image u-logo u-image-1" data-image-width="172" data-image-height="46">
           <img src="images/logo3.png" class="u-logo-image u-logo-image-1">
         </a>
-        <a href="https://smartholomedia.com/index.php?rp=%2Fstore%2Ftrials&language=french&currency=3" class="u-border-none u-btn u-button-style u-hover-palette-4-dark-2 u-palette-4-dark-1 u-btn-1"><span class="u-icon"></span>&nbsp;OBTENIR UN ESSAI GRATUIT
+        <a href="https://www.globaliptvhost.com/cart.php?gid=8&language=french&currency=2" class="u-border-none u-btn u-button-style u-hover-palette-4-dark-2 u-palette-4-dark-1 u-btn-1"><span class="u-icon"></span>&nbsp;OBTENIR UN ESSAI GRATUIT
         </a>
         <nav class="u-menu u-menu-dropdown u-offcanvas u-menu-1">
           <div class="menu-collapse" style="font-size: 1rem; letter-spacing: 0px;">
@@ -75,10 +75,10 @@
           <br>
         </h4>
 &nbsp;
-        <a href="https://smartholomedia.com/index.php?rp=%2Fstore%2Ftrials&language=french&currency=3" class="u-border-none u-btn u-button-style u-hover-palette-4-dark-2 u-palette-4-dark-1 u-btn-1"><span class="u-icon"></span>&nbsp;OBTENIR UN ESSAI GRATUIT
+        <a href="https://www.globaliptvhost.com/cart.php?gid=8&language=french&currency=2" class="u-border-none u-btn u-button-style u-hover-palette-4-dark-2 u-palette-4-dark-1 u-btn-1"><span class="u-icon"></span>&nbsp;OBTENIR UN ESSAI GRATUIT
         </a>
 &nbsp;
-        <a href="https://smartholomedia.com/index.php?rp=%2Fstore%2Freseller-packages&language=french&currency=3" class="u-border-none u-btn u-button-style u-hover-palette-4-dark-2 u-palette-4-dark-1 u-btn-1"><span class="u-icon"></span>DEVENIR REVENDEUR
+        <a href="https://www.globaliptvhost.com/cart.php?gid=6&language=french&currency=2" class="u-border-none u-btn u-button-style u-hover-palette-4-dark-2 u-palette-4-dark-1 u-btn-1"><span class="u-icon"></span>DEVENIR REVENDEUR
         </a>
       </div>
     </section>
@@ -94,7 +94,7 @@
                   <h3 class="u-text u-text-2"> €12.0/MOIS</h3>
                   <p class="u-text u-text-3"> Plus de 11000+ ch<br>Live &amp; VOD <br>Chaînes en direct 24/7 <br>FHD &amp; HD Quality <br>Tous les appareils Support <br>99,9% de serveurs de disponibilité <br>Activation instantanée
                   </p>
-                  <a href="https://smartholomedia.com/index.php?rp=%2Fstore%2Fsubscriptions&language=french&currency=3" class="u-btn u-btn-round u-button-style u-hover-palette-2-base u-palette-1-base u-radius-50 u-btn-1">ACHETER MAINTENANT</a>
+                  <a href="https://www.globaliptvhost.com/cart.php?gid=2&language=french&currency=2" class="u-btn u-btn-round u-button-style u-hover-palette-2-base u-palette-1-base u-radius-50 u-btn-1">ACHETER MAINTENANT</a>
                 </div>
               </div>
               <div class="u-align-center u-container-style u-layout-cell u-size-15 u-size-30-md u-white u-layout-cell-2">
@@ -104,7 +104,7 @@
                   <h3 class="u-text u-text-5"> €30.00/3 MOIS</h3>
                   <p class="u-text u-text-6"><b> Plus de 11000+ ch<br>Live &amp; VOD <br>Chaînes en direct 24/7 <br>FHD &amp; HD Quality <br>Tous les appareils Support <br>99,9% de serveurs de disponibilité <br>Activation instantanée</b>
                   </p>
-                  <a href="https://smartholomedia.com/index.php?rp=%2Fstore%2Fsubscriptions&language=french&currency=3" class="u-btn u-btn-round u-button-style u-hover-palette-2-base u-palette-1-base u-radius-50 u-btn-2">ACHETER MAINTENANT</a>
+                  <a href="https://www.globaliptvhost.com/cart.php?gid=3&language=french&currency=2" class="u-btn u-btn-round u-button-style u-hover-palette-2-base u-palette-1-base u-radius-50 u-btn-2">ACHETER MAINTENANT</a>
                 </div>
               </div>
               <div class="u-border-no-bottom u-border-no-left u-border-no-right u-border-no-top u-container-style u-layout-cell u-size-15 u-size-30-md u-white u-layout-cell-3">
@@ -114,7 +114,7 @@
                   <h3 class="u-align-center u-text u-text-8"> €54.00/ 6 MOIS</h3>
                   <p class="u-align-center u-text u-text-9"><b> Plus de 11000+ ch<br>&nbsp;Live &amp; VOD <br>Chaînes en direct 24/7 <br>FHD &amp; HD Quality <br>Tous les appareils Support <br>99,9% de serveurs de disponibilité <br>Activation instantanée</b>
                   </p>
-                  <a href="https://smartholomedia.com/index.php?rp=%2Fstore%2Fsubscriptions&language=french&currency=3" class="u-btn u-btn-round u-button-style u-hover-palette-2-base u-palette-1-base u-radius-50 u-btn-3">ACHETER MAINTENANT</a>
+                  <a href="https://www.globaliptvhost.com/cart.php?gid=4&language=french&currency=2" class="u-btn u-btn-round u-button-style u-hover-palette-2-base u-palette-1-base u-radius-50 u-btn-3">ACHETER MAINTENANT</a>
                 </div>
               </div>
               <div class="u-align-center u-border-no-bottom u-border-no-left u-border-no-right u-border-no-top u-container-style u-layout-cell u-right-cell u-size-15 u-size-30-md u-white u-layout-cell-4">
@@ -124,7 +124,7 @@
                   <h3 class="u-text u-text-11"> €77.00 / ANNUEL</h3>
                   <p class="u-text u-text-12"><b> Plus de 11000+ ch<br>Live &amp; VOD <br>Chaînes en direct 24/7 <br>FHD &amp; HD Quality <br>Tous les appareils Support <br>99,9% de serveurs de disponibilité <br>Activation instantanée</b>
                   </p>
-                  <a href="https://smartholomedia.com/index.php?rp=%2Fstore%2Fsubscriptions&language=french&currency=3" class="u-btn u-btn-round u-button-style u-hover-palette-2-base u-palette-1-base u-radius-50 u-btn-4">ACHETER MAINTENANT</a>
+                  <a href="https://www.globaliptvhost.com/cart.php?gid=5&language=french&currency=2" class="u-btn u-btn-round u-button-style u-hover-palette-2-base u-palette-1-base u-radius-50 u-btn-4">ACHETER MAINTENANT</a>
                 </div>
               </div>
             </div>
